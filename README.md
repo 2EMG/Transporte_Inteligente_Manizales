@@ -28,4 +28,5 @@ Facilitar el acceso eficiente al transporte público con información predictiva
 
 Ser la solución global de referencia para la gestión inteligente del transporte urbano, incluyendo todo tipo de movilidad ciudadana.
 
-![image](https://github.com/user-attachments/assets/87170a5e-7a04-4fe4-a356-6e83eff389ca)
+![image](https://github.com/user-attachments/assets/2607a584-c500-45a5-a701-a4414183d18a)
+
